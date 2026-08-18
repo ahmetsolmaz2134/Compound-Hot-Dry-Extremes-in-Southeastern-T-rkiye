@@ -2,9 +2,13 @@
 
 ## Changes in Compound Temperature and Drought Extremes in Southeastern Türkiye
 
-### Author
-**Aydın Solmaz**
+## Author
 
+This research project was independently designed and conducted by:
+
+**Ahmet Solmaz**
+
+The statistical analysis, data processing, interpretation, and visualization are developed as part of the author's independent research work.
 ---
 
 ## Overview
